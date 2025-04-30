@@ -5,7 +5,7 @@ Bot Battlr is a fun React app where users can view a collection of bots, enlist 
 ## 🚀 Live Demo
 
 
-- Live Site: [lively-mochi-4e9ad6.netlify.app/](lively-mochi-4e9ad6.netlify.app/)
+- Live Site: https://vercel.com/benards-projects-edc1670b/bot-battlr
 
 ---
 
